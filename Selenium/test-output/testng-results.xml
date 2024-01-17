@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-14T19:39:01 IST" name="Default suite" finished-at="2024-01-14T19:39:06 IST" duration-ms="4725">
+    <groups>
+    </groups>
+    <test started-at="2024-01-14T19:39:01 IST" name="Default test" finished-at="2024-01-14T19:39:06 IST" duration-ms="4725">
+      <class name="TestNG.SimpleTest_TestNG">
+        <test-method signature="verifyPageTitle()[pri:0, instance:TestNG.SimpleTest_TestNG@75d4a5c2]" started-at="2024-01-14T19:39:01 IST" name="verifyPageTitle" finished-at="2024-01-14T19:39:06 IST" duration-ms="4685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+      </class> <!-- TestNG.SimpleTest_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
